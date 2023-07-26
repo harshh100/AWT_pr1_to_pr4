@@ -116,7 +116,7 @@ function greet(name = "Anonymous") {
 }
 
 greet(); // Output: "Hello, Anonymous!"
-greet("John"); // Output: "Hello, John!"
+greet("harsh"); // Output: "Hello, Harsh!"
 
 // 12. fuction rest parameter
 
@@ -125,3 +125,5 @@ function sum(...numbers) {
 }
 
 console.log(sum(1, 2, 3, 4)); // Output: 10
+
+
