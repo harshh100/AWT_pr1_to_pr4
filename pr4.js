@@ -24,7 +24,7 @@ function Factorial(number) {
 
 const num = 5;
 const Result = Factorial(num);
-console.log(`Factorial of ${num} is: ${Result}`)
+console.log(`Factorial of ${num} is: ${Result}`);
 
 
 // https://github.com/harsh796719/AWT_pr1_pr4/tree/main
