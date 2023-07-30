@@ -13,7 +13,7 @@ function Factorial(number) {
     }
 
 
-    const result = factorialRecursive(number);
+    // const result = factorialRecursive(number);
 
     // Accessing variables from different scopes
     console.log(globalVariable);
