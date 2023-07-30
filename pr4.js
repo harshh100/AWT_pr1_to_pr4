@@ -17,7 +17,7 @@ function Factorial(number) {
 
     // Accessing variables from different scopes
     console.log(globalVariable);
-    console.log(localVariable); // Uncommenting this line would result in an error since localVariable is not accessible here.
+    // console.log(localVariable); // Uncommenting this line would result in an error since localVariable is not accessible here.
 
     return result;
 }
